@@ -1,2 +1,2 @@
 # 0x64
-Minimal blog.
+Still Cooking. WIP. Check back later.
